@@ -1,0 +1,12 @@
+mainform---
+
+kasa durumu 
+saat
+tarih
+kullanýcý yetkileri
+
+carihesaplar---
+
+düzlenle sqlbussy
+satýþ bussy
+ürün ara butonu
